@@ -1,0 +1,10 @@
+# Project Structure
+
+## Folders
+- `indiv_anomaly_detector/`
+- `Pattern_based_Anomaly_Detect/`
+
+## Data Source
+Files were collected from the following Google Drive link:
+
+https://drive.google.com/file/d/1AXubi8VjM92h_fvZi_R0acqcZrojmQzw/view?usp=sharing

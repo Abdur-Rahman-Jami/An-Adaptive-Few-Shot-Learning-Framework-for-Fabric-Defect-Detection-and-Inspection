@@ -1,0 +1,10 @@
+﻿# Generated ML outputs and model weights
+processed/
+*.pt
+*.pth
+*.npy
+*.ckpt
+
+# Python cache
+__pycache__/
+*.pyc
