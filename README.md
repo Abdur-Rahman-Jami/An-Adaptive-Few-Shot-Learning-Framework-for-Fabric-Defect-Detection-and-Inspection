@@ -1,5 +1,7 @@
 # Fabric Inspection Prototype
 
+## CSE499_Capstone Project
+
 A Flask-based web application for automated fabric defect detection, classification, and anomaly scoring using deep learning models. Supports both knitted and woven fabrics with real-time inspection feedback and live camera capture.
 
 ## Features
