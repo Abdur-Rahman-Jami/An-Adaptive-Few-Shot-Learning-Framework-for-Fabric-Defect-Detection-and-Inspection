@@ -1,1 +1,0 @@
-# An-Adaptive-Few-Shot-Learning-Framework-for-Fabric-Defect-Detection-and-Inspection
